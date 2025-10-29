@@ -53,11 +53,3 @@ Mi enfoque se centra en herramientas modernas y eficientes para el desarrollo we
 | **📧 Contáctame:** | diazhoilluisdavid@gmail.com |
 | **🔗 Conéctate:** | www.linkedin.com/in/david-diaz-hoil-a19a3438a |
 
----
----
-
-### ✨ **Próximo Paso:** Insignias (Badges)
-
-Para que tu perfil sea aún más visual y profesional, te sugiero añadir **insignias (badges)** con los logotipos de React, Node.js, PostgreSQL, etc.
-
-¿Te gustaría que te muestre los códigos de Markdown para incluir estas insignias en tu README?
